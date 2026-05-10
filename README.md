@@ -1,41 +1,49 @@
-<h1 align="center">Hey, Gonçalo👋</h1>
-<h3 align="center">Building cool stuff with code</h3>
+<h1 align="center">Hey, I'm Gonçalo 👋</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?..." />
+  Writing code for fun.
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Working on ...
-- 🌱 Learning ...
-- ⚡ Fun fact: ...
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,aws,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,cs,dotnet,js,html,css,git,github,vscode" />
 </p>
+
+### Core Expertise
+- **Frontend:** Vue.js, TypeScript, JavaScript
+- **Backend:** C#, .NET
+- **Practices:** Component architecture, API integration, clean code, performance optimization
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURNAME" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GonBit&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🔨 Current Focus
 
-[LinkedIn](your-link) • [Portfolio](your-link) • [Twitter](your-link)
+```ts
+const currentFocus = [
+  "TypeScript",
+  "Vue",
+  ".NET backend systems"
+];
+```
 
 ---
 
-> “Insert cool quote here.”
+<p align="center">
+  <i>Having fun while coding.</i>
+</p>
